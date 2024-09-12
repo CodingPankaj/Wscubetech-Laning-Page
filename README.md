@@ -13,7 +13,7 @@ This repository contains the HTML and CSS files for the Wscubetech Landing Page,
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/CodingPankaj/wscubetech-landing-page.git
+   git clone https://github.com/CodingPankaj/Wscubetech-Laning-Page.git
 
 2. Navigate to the Project Directory <br>
    cd wscubetech-landing-page
